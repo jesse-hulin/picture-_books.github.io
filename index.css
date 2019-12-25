@@ -3,7 +3,10 @@
   padding: 0;
 }
 .text {
-  padding: 0 10px 50px;
+  padding: 0 10px;
+}
+.weixin {
+  padding: 0 0 50px;
 }
 img {
   width: 100%;
